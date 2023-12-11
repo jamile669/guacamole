@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461783993609",
+    "project_id": "flutter-gymapp-2cd4d",
+    "storage_bucket": "flutter-gymapp-2cd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461783993609:android:295a89d2df4d9a429717d8",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCouDei9EZivrqU65Xvraw2adi_vHmWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
